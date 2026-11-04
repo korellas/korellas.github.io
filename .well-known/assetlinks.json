@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.korellas.androidshell.flutter.debug",
+      "sha256_cert_fingerprints": [
+        "85:7E:A6:FC:B7:30:B7:74:F8:74:BA:69:58:9F:40:87:D8:7F:63:CA:8C:69:34:D4:46:5E:8D:12:B3:6A:FF:84"
+      ]
+    }
+  }
+]
